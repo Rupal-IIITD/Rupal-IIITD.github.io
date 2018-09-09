@@ -1,3 +1,11 @@
+---
+layout: post
+title: TWTW| WiT learning program | Cohort-1
+subtitle: The first week
+bigimg: /img/path.jpg
+tags: [books, test]
+---
+
 # The Week That Was | WiT Learning Program
 
 
