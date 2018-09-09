@@ -3,7 +3,7 @@ layout: post
 title: We Solemnly Swear We’re Up To No Good!
 subtitle: Our RGSoC Team introduction blog
 bigimg: /img/path.jpg
-tags: [books, test]
+tags: [open-source, internship]
 ---
 
 ## The Beginning: How delayed rewards brought us extra happiness!
