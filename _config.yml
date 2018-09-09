@@ -17,7 +17,7 @@ baseurl: ""
 title: Roop.Me
 
 # Short description of your site
-#description: Rupal Jain
+description: Senior Undergrad | IIIT Delhi
 
 # --- Navigation bar options --- #
 
@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Rupal-IIITD.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "rupal-iiitd.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
