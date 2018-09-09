@@ -1,13 +1,9 @@
 ---
-title: We Solemnly Swear We’re Up To No Good!
 layout: post
-created_at: Tue Aug 07 2018
-permalink: blog/2018-08-07-team-sectumsempra
-current: blog
-author: Avneet Kaur
-twitter: TeamSectumsem18
-categories:
- - student-posts
+title: We Solemnly Swear We’re Up To No Good!
+subtitle: Our RGSoC Team introduction blog
+bigimg: /img/path.jpg
+tags: [books, test]
 ---
 
 ## The Beginning: How delayed rewards brought us extra happiness!
