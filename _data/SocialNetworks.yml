@@ -6,6 +6,11 @@
 #            site.social-network-links.<key>
 #   icon: Specify a valid fontawesome icon class
 
+quora:
+  name: "Quora"
+  baseURL: "https://www.quora.com//"
+  icon: "fa-quora"
+
 facebook:
   name: "Facebook"
   baseURL: "https://www.facebook.com/"
