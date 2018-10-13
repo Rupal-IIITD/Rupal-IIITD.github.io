@@ -1,3 +1,11 @@
+---
+layout: post
+title: National Campaign on Dalit Human Rights
+subtitle: My experience as a volunteer at NCDHR
+bigimg: /img/path.jpg
+tags: [community service, volunteer]
+---
+
 # My experience as a volunteer at National Campaign on Dalit Human Rights
 
 I have been involved with the NCDHR, an NGO, which works towards eliminating the discrimination based on caste. I volunteered for the teaching team for one and a half months. I taught primary and secondary school kids (from slums, primarily) the basic mathematics and computers. During this period, I was exposed to a whole new world, culture and perspectives.
